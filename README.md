@@ -52,7 +52,7 @@ I bridge the gap between raw data and decision-making — from building producti
 
 ## 💼 Experience Highlights
 
-### 🏢 IronEagleX — Data Analyst *(Sep 2025 – Present)*
+### 🏢 IronEagleX — Software Engineer *(Sep 2025 – Present)*
 - Designed and deployed **multi-service applications** using Docker (microservices architecture)
 - Built production **REST APIs** with Python/FastAPI handling data validation and DB communication
 - Shipped **4 interactive Streamlit dashboards** pulling live data for end-user consumption
